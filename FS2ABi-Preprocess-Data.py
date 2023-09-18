@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-# 1_20220902-Compare-ETS-Pbm-And-Chip-1.py
 
 print('importing libraries...')
 
