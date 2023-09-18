@@ -1,5 +1,1 @@
-# nature2023-limb
-
-Code required to reproduce figures 5,6 ED2 and ED10.
-
-Lim, Solvason, Ryan, et al. Nature 2023. Farley Lab.
+Code required to reproduce figures 5,6 ED2, ED7 and ED10 for Lim, Solvason, Ryan, et al., Farley, Nature 2023.
