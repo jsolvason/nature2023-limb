@@ -1,5 +1,5 @@
 # Lim, Solvason, Ryan, et al., Farley Lab 2023
-Code required to reproduce figures 5,6 ED2, ED7 and ED10 for Lim, Solvason, Ryan, et al., Farley, Nature 2023.
+Code required to reproduce main figures 5,6, and extended data figures ED2, ED7 and ED10.
 
 # Copyright 
 This software is Copyright © 2023 The Regents of the University of California. All Rights Reserved. Permission to copy, modify, and distribute this software and its documentation for educational, research and non-profit purposes, without fee, and without a written agreement is hereby granted, provided that the above copyright notice, this paragraph and the following three paragraphs appear in all copies. Permission to make commercial use of this software may be obtained by contacting:
